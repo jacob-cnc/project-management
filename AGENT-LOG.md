@@ -7,6 +7,16 @@ project-management framework repo itself (not any single project under `projects
 
 ## 2026-09-24 — Kiro
 
+**Action:** Filed HANDOFF-001 as a canonical record with completion report at `docs/handoffs/HANDOFF-001.md`.
+**Reason:** Handoff was delivered in-chat with no on-disk file; Jacob requested the merge/override be noted in the handoff completion report. Filed under `docs/handoffs/` (framework-level, no owning project).
+**Files Changed:**
+- `docs/handoffs/HANDOFF-001.md` — created (reconstructed handoff + append-only completion report, incl. governance notes on the merge override and in-place ADR edit)
+**Result:** Committed directly to `main` (PR #1 already merged; single documentation record). Task complete.
+
+---
+
+## 2026-09-24 — Kiro
+
 **Action:** Fixed two markdown typos in the ADR-001 changeset and merged PR #1 into `main`.
 **Reason:** Jacob gave explicit one-off approval to correct the flagged typos and merge (overriding Quick's original "do NOT merge" review-gate; Quick to be notified). ADR edited in place rather than superseded — the fix is a pre-review formatting correction, not a change to the decision.
 **Files Changed:**
