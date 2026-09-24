@@ -42,7 +42,7 @@ Option B was chosen.
 
    elsewhere does not override the repo.
 
-2. *`DECISION-NEEDED` numbering.** `DECISION-NEEDED-NNN` files use their own
+2. **`DECISION-NEEDED` numbering.** `DECISION-NEEDED-NNN` files use their own
 
    sequence, independent of `HANDOFF-NNN`. Both live in
 

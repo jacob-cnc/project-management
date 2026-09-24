@@ -68,7 +68,7 @@ When a pattern proves reusable across projects, promote it into steering rather
 
 than leaving it in a single project's `knowledge/`:
 
-- Rules/conventions → this file `CONVENTIONS.md`)
+- Rules/conventions → this file (`CONVENTIONS.md`)
 
 - Reusable technical patterns → `docs/PATTERNS.md`
 
